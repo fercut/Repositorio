@@ -12,6 +12,4 @@
 <sup>Este es un tipo de texto</sup>
 >Este es un tipo de texto
 ###### Este es un tipo de texto
-
-
-    
+![dave](dave.gif)
