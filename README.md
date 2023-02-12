@@ -12,10 +12,4 @@
 <sup>Este es un tipo de texto</sup>
 >Este es un tipo de texto
 ###### Este es un tipo de texto
-<<<<<<< HEAD
 ![dave](dave.gif)
-=======
-
-![dave](dave.gif)
-    
->>>>>>> main
